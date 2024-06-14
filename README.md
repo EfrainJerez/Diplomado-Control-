@@ -57,6 +57,7 @@
 <header>
     <h1>Ingeniería Electrónica</h1>
     <p>Página informativa sobre temas de actualidad en la ingeniería</p>
+    <p>Efrain Jerez, Pedro Velasquez, David Maestre</p>
 </header>
 
 <nav>
